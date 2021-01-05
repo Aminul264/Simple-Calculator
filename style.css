@@ -2,9 +2,10 @@
 .tble{
     height:300px;
     border: 2px solid gray;
-    margin: auto;
+     margin: auto;
     background-color: #A7A7A7;
     margin-top: 50px;
+    border-radius: 10px;
 }
 .tble input{
     
@@ -12,11 +13,12 @@ width: 60px;
 height: 40px;
 border-radius: 10px;
 background-color: lightgrey;
+font-size: 20px;
 }
 .tv input{
     width: 200px;
     height: 70px;
     border: 2px solid gray;
-    background-color: snow;
+    background-color: whitesmoke;
 
 }
